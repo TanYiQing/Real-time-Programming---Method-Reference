@@ -34,4 +34,5 @@ Total: 36
 ```
 
 ## Your Output/Result
-![output](.\images\output.png)
+
+![output](./images/output.png)
