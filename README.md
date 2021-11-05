@@ -34,3 +34,4 @@ Total: 36
 ```
 
 ## Your Output/Result
+imga![output](.\images\output.png)
